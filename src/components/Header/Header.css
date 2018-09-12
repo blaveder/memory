@@ -1,0 +1,17 @@
+.header {
+    width: 100%;
+    font-size: 2rem;
+    color: #fff;
+   
+    padding: 2% 2% 3% 2%;
+    background: darkgreen;
+    
+  }
+  
+  .title {
+    float: left;
+  }
+  
+  .scores {
+    float: right;
+  }

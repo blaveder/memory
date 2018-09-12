@@ -1,0 +1,11 @@
+.container {
+    padding: 0;
+    background: #ECEFF1;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 20px;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    clear: both;
+  }
